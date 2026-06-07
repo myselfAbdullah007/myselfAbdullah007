@@ -55,61 +55,22 @@ const abdullah = {
 </div>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-19%20hrs%2055%20mins-blue?style=flat)
-
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-21.86%20million%20lines%20of%20code-blue?style=flat)
-
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                680 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.20 % 
-🌆 Daytime                4294 commits        ███████████████░░░░░░░░░░   58.10 % 
-🌃 Evening                1578 commits        █████░░░░░░░░░░░░░░░░░░░░   21.35 % 
-🌙 Night                  839 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.35 % 
-```
-📅 **I'm Most Productive on Monday** 
-
-```text
-Monday                   2118 commits        ███████░░░░░░░░░░░░░░░░░░   28.66 % 
-Tuesday                  1150 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.56 % 
-Wednesday                1447 commits        █████░░░░░░░░░░░░░░░░░░░░   19.58 % 
-Thursday                 284 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.84 % 
-Friday                   1942 commits        ███████░░░░░░░░░░░░░░░░░░   26.28 % 
-Saturday                 75 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.01 % 
-Sunday                   375 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.07 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-Python                   4 hrs 45 mins       █████████░░░░░░░░░░░░░░░░   36.15 % 
-XML                      2 hrs 59 mins       ██████░░░░░░░░░░░░░░░░░░░   22.70 % 
-Markdown                 1 hr 38 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.39 % 
-TypeScript               1 hr 7 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.53 % 
-SCSS                     39 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.03 % 
-
-🔥 Editors: 
-VS Code                  9 hrs 15 mins       ██████████████████░░░░░░░   70.21 % 
-Cursor                   3 hrs 14 mins       ██████░░░░░░░░░░░░░░░░░░░   24.56 % 
-Claude Code              41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.23 % 
-```
 
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               17 repos            █████████░░░░░░░░░░░░░░░░   36.17 % 
-JavaScript               12 repos            ██████░░░░░░░░░░░░░░░░░░░   25.53 % 
-Python                   6 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.77 % 
-Java                     6 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.77 % 
-Dart                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.13 % 
+TypeScript               18 repos            █████████░░░░░░░░░░░░░░░░   37.50 % 
+JavaScript               12 repos            ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
+Python                   6 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
+Java                     6 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
+Dart                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.08 % 
 ```
 
 
 
 
- Last Updated on 06/06/2026 03:00:27 UTC
+ Last Updated on 07/06/2026 03:46:47 UTC
 <!--END_SECTION:waka-->
 
 ---
