@@ -55,9 +55,46 @@ const abdullah = {
 </div>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-31%20hrs%2053%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-33%20hrs%2057%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-22.28%20million%20lines%20of%20code-blue?style=flat)
+
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                702 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.14 % 
+🌆 Daytime                4470 commits        ███████████████░░░░░░░░░░   58.22 % 
+🌃 Evening                1651 commits        █████░░░░░░░░░░░░░░░░░░░░   21.50 % 
+🌙 Night                  855 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.14 % 
+```
+📅 **I'm Most Productive on Monday** 
+
+```text
+Monday                   2198 commits        ███████░░░░░░░░░░░░░░░░░░   28.63 % 
+Tuesday                  1200 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.63 % 
+Wednesday                1488 commits        █████░░░░░░░░░░░░░░░░░░░░   19.38 % 
+Thursday                 313 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.08 % 
+Friday                   2022 commits        ███████░░░░░░░░░░░░░░░░░░   26.33 % 
+Saturday                 75 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.98 % 
+Sunday                   382 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.98 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+TypeScript               3 hrs 4 mins        ████████░░░░░░░░░░░░░░░░░   33.87 % 
+Bash                     1 hr                ███░░░░░░░░░░░░░░░░░░░░░░   11.12 % 
+YAML                     57 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.56 % 
+Docker                   42 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.71 % 
+Python                   40 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.38 % 
+
+🔥 Editors: 
+VS Code                  5 hrs 13 mins       ██████████████░░░░░░░░░░░   57.38 % 
+Cursor                   3 hrs 31 mins       ██████████░░░░░░░░░░░░░░░   38.64 % 
+Claude Code              21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.98 % 
+```
 
 **I Mostly Code in TypeScript** 
 
@@ -72,7 +109,7 @@ Dart                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 13/06/2026 03:37:15 UTC
+ Last Updated on 14/06/2026 03:58:01 UTC
 <!--END_SECTION:waka-->
 
 ---
