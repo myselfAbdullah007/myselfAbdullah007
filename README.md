@@ -55,7 +55,7 @@ const abdullah = {
 </div>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-41%20hrs%2045%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-41%20hrs%2054%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-22.86%20million%20lines%20of%20code-blue?style=flat)
 
@@ -84,16 +84,16 @@ Sunday                   382 commits         █░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-TypeScript               6 hrs 18 mins       ████████████████░░░░░░░░░   63.94 % 
-JSON                     47 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.01 % 
-Markdown                 45 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.74 % 
-YAML                     43 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.27 % 
-Docker                   16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.86 % 
+TypeScript               5 hrs 8 mins        ████████████████░░░░░░░░░   64.66 % 
+JSON                     42 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.82 % 
+YAML                     34 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.15 % 
+Markdown                 26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.57 % 
+Bash                     11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.32 % 
 
 🔥 Editors: 
-Cursor                   5 hrs 12 mins       █████████████░░░░░░░░░░░░   52.86 % 
-VS Code                  3 hrs 47 mins       ██████████░░░░░░░░░░░░░░░   38.41 % 
-Claude Code              51 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.72 % 
+VS Code                  3 hrs 47 mins       ████████████░░░░░░░░░░░░░   47.65 % 
+Cursor                   3 hrs 33 mins       ███████████░░░░░░░░░░░░░░   44.85 % 
+Claude Code              35 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.49 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -109,7 +109,7 @@ Dart                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 20/06/2026 03:34:43 UTC
+ Last Updated on 21/06/2026 04:07:15 UTC
 <!--END_SECTION:waka-->
 
 ---
