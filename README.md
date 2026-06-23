@@ -57,26 +57,26 @@ const abdullah = {
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-41%20hrs%2054%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-22.86%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-22.88%20million%20lines%20of%20code-blue?style=flat)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                737 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.26 % 
-🌆 Daytime                4645 commits        ███████████████░░░░░░░░░░   58.37 % 
-🌃 Evening                1716 commits        █████░░░░░░░░░░░░░░░░░░░░   21.56 % 
-🌙 Night                  860 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.81 % 
+🌞 Morning                742 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.29 % 
+🌆 Daytime                4665 commits        ███████████████░░░░░░░░░░   58.39 % 
+🌃 Evening                1720 commits        █████░░░░░░░░░░░░░░░░░░░░   21.53 % 
+🌙 Night                  862 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.79 % 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   2253 commits        ███████░░░░░░░░░░░░░░░░░░   28.31 % 
-Tuesday                  1294 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.26 % 
-Wednesday                1507 commits        █████░░░░░░░░░░░░░░░░░░░░   18.94 % 
-Thursday                 383 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.81 % 
-Friday                   2064 commits        ██████░░░░░░░░░░░░░░░░░░░   25.94 % 
+Monday                   2267 commits        ███████░░░░░░░░░░░░░░░░░░   28.38 % 
+Tuesday                  1308 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.37 % 
+Wednesday                1509 commits        █████░░░░░░░░░░░░░░░░░░░░   18.89 % 
+Thursday                 384 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.81 % 
+Friday                   2064 commits        ██████░░░░░░░░░░░░░░░░░░░   25.84 % 
 Saturday                 75 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.94 % 
-Sunday                   382 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.80 % 
+Sunday                   382 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.78 % 
 ```
 
 
@@ -109,7 +109,7 @@ Dart                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 22/06/2026 04:08:32 UTC
+ Last Updated on 23/06/2026 03:28:19 UTC
 <!--END_SECTION:waka-->
 
 ---
