@@ -55,9 +55,45 @@ const abdullah = {
 </div>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-42%20hrs%2020%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-46%20hrs%2042%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-23.02%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-23.29%20million%20lines%20of%20code-blue?style=flat)
+
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                792 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.50 % 
+🌆 Daytime                4875 commits        ███████████████░░░░░░░░░░   58.49 % 
+🌃 Evening                1788 commits        █████░░░░░░░░░░░░░░░░░░░░   21.45 % 
+🌙 Night                  880 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.56 % 
+```
+📅 **I'm Most Productive on Monday** 
+
+```text
+Monday                   2360 commits        ███████░░░░░░░░░░░░░░░░░░   28.31 % 
+Tuesday                  1418 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.01 % 
+Wednesday                1553 commits        █████░░░░░░░░░░░░░░░░░░░░   18.63 % 
+Thursday                 410 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.92 % 
+Friday                   2130 commits        ██████░░░░░░░░░░░░░░░░░░░   25.55 % 
+Saturday                 75 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.90 % 
+Sunday                   389 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.67 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+TypeScript               3 hrs 27 mins       ██████████░░░░░░░░░░░░░░░   41.74 % 
+YAML                     1 hr 6 mins         ███░░░░░░░░░░░░░░░░░░░░░░   13.36 % 
+Python                   1 hr 3 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.71 % 
+Markdown                 51 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.38 % 
+Bash                     38 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.78 % 
+
+🔥 Editors: 
+Cursor                   6 hrs 49 mins       █████████████████████░░░░   82.48 % 
+Claude Code              1 hr 26 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.52 % 
+```
 
 **I Mostly Code in TypeScript** 
 
@@ -72,7 +108,7 @@ Dart                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 24/06/2026 03:29:58 UTC
+ Last Updated on 25/06/2026 03:28:17 UTC
 <!--END_SECTION:waka-->
 
 ---
