@@ -84,15 +84,15 @@ Sunday                   389 commits         █░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Python                   2 hrs 29 mins       ████████░░░░░░░░░░░░░░░░░   31.59 % 
-TypeScript               1 hr 39 mins        █████░░░░░░░░░░░░░░░░░░░░   21.00 % 
-YAML                     1 hr 6 mins         ████░░░░░░░░░░░░░░░░░░░░░   14.01 % 
-Markdown                 56 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.95 % 
-Bash                     54 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.56 % 
+Python                   2 hrs 29 mins       ████████░░░░░░░░░░░░░░░░░   32.20 % 
+TypeScript               1 hr 32 mins        █████░░░░░░░░░░░░░░░░░░░░   20.05 % 
+YAML                     1 hr 6 mins         ████░░░░░░░░░░░░░░░░░░░░░   14.28 % 
+Markdown                 56 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.18 % 
+Bash                     51 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.21 % 
 
 🔥 Editors: 
-Cursor                   4 hrs 43 mins       ███████████████░░░░░░░░░░   60.10 % 
-Claude Code              3 hrs 8 mins        ██████████░░░░░░░░░░░░░░░   39.90 % 
+Cursor                   4 hrs 34 mins       ███████████████░░░░░░░░░░   59.33 % 
+Claude Code              3 hrs 8 mins        ██████████░░░░░░░░░░░░░░░   40.67 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -108,7 +108,7 @@ Dart                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 27/06/2026 02:59:14 UTC
+ Last Updated on 28/06/2026 03:41:40 UTC
 <!--END_SECTION:waka-->
 
 ---
