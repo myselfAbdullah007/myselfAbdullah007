@@ -55,45 +55,9 @@ const abdullah = {
 </div>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-52%20hrs%2023%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-52%20hrs%2036%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-23.31%20million%20lines%20of%20code-blue?style=flat)
-
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                796 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.53 % 
-🌆 Daytime                4886 commits        ███████████████░░░░░░░░░░   58.49 % 
-🌃 Evening                1790 commits        █████░░░░░░░░░░░░░░░░░░░░   21.43 % 
-🌙 Night                  881 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.55 % 
-```
-📅 **I'm Most Productive on Monday** 
-
-```text
-Monday                   2369 commits        ███████░░░░░░░░░░░░░░░░░░   28.36 % 
-Tuesday                  1425 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.06 % 
-Wednesday                1554 commits        █████░░░░░░░░░░░░░░░░░░░░   18.60 % 
-Thursday                 411 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.92 % 
-Friday                   2130 commits        ██████░░░░░░░░░░░░░░░░░░░   25.50 % 
-Saturday                 75 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.90 % 
-Sunday                   389 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.66 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-Python                   3 hrs 35 mins       █████████░░░░░░░░░░░░░░░░   35.74 % 
-TypeScript               1 hr 20 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.40 % 
-Markdown                 1 hr 15 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.53 % 
-YAML                     1 hr 6 mins         ███░░░░░░░░░░░░░░░░░░░░░░   10.97 % 
-Bash                     53 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.80 % 
-
-🔥 Editors: 
-Cursor                   5 hrs 15 mins       █████████████░░░░░░░░░░░░   52.32 % 
-Claude Code              4 hrs 47 mins       ████████████░░░░░░░░░░░░░   47.68 % 
-```
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-23.36%20million%20lines%20of%20code-blue?style=flat)
 
 **I Mostly Code in TypeScript** 
 
@@ -108,7 +72,7 @@ Dart                     2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 01/07/2026 03:42:46 UTC
+ Last Updated on 02/07/2026 03:28:13 UTC
 <!--END_SECTION:waka-->
 
 ---
