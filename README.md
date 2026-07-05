@@ -55,7 +55,7 @@ const abdullah = {
 </div>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-56%20hrs%2041%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-58%20hrs%2056%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-23.71%20million%20lines%20of%20code-blue?style=flat)
 
@@ -84,15 +84,15 @@ Sunday                   396 commits         █░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Python                   2 hrs 37 mins       █████████░░░░░░░░░░░░░░░░   37.05 % 
-Markdown                 53 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.70 % 
-Bash                     49 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.55 % 
-TypeScript               46 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.92 % 
-Other                    42 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.92 % 
+Python                   3 hrs 18 mins       █████████░░░░░░░░░░░░░░░░   35.45 % 
+TypeScript               1 hr 35 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.01 % 
+Markdown                 1 hr 7 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.06 % 
+Bash                     51 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.19 % 
+Other                    45 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.08 % 
 
 🔥 Editors: 
-Cursor                   4 hrs 46 mins       █████████████████░░░░░░░░   67.33 % 
-Claude Code              2 hrs 18 mins       ████████░░░░░░░░░░░░░░░░░   32.67 % 
+Cursor                   6 hrs               ████████████████░░░░░░░░░   64.51 % 
+Claude Code              3 hrs 18 mins       █████████░░░░░░░░░░░░░░░░   35.49 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -108,7 +108,7 @@ Dart                     2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 04/07/2026 02:47:25 UTC
+ Last Updated on 05/07/2026 02:58:00 UTC
 <!--END_SECTION:waka-->
 
 ---
