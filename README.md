@@ -55,28 +55,28 @@ const abdullah = {
 </div>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-60%20hrs%2024%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-62%20hrs%203%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-23.91%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-23.95%20million%20lines%20of%20code-blue?style=flat)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                864 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.76 % 
-🌆 Daytime                5212 commits        ███████████████░░░░░░░░░░   58.88 % 
-🌃 Evening                1875 commits        █████░░░░░░░░░░░░░░░░░░░░   21.18 % 
-🌙 Night                  901 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.18 % 
+🌞 Morning                867 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.75 % 
+🌆 Daytime                5232 commits        ███████████████░░░░░░░░░░   58.85 % 
+🌃 Evening                1880 commits        █████░░░░░░░░░░░░░░░░░░░░   21.14 % 
+🌙 Night                  912 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.26 % 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   2507 commits        ███████░░░░░░░░░░░░░░░░░░   28.32 % 
-Tuesday                  1573 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.77 % 
-Wednesday                1634 commits        █████░░░░░░░░░░░░░░░░░░░░   18.46 % 
-Thursday                 452 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.11 % 
-Friday                   2215 commits        ██████░░░░░░░░░░░░░░░░░░░   25.02 % 
-Saturday                 75 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.85 % 
-Sunday                   396 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.47 % 
+Monday                   2518 commits        ███████░░░░░░░░░░░░░░░░░░   28.32 % 
+Tuesday                  1574 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.70 % 
+Wednesday                1645 commits        █████░░░░░░░░░░░░░░░░░░░░   18.50 % 
+Thursday                 462 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.20 % 
+Friday                   2221 commits        ██████░░░░░░░░░░░░░░░░░░░   24.98 % 
+Saturday                 75 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.84 % 
+Sunday                   396 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.45 % 
 ```
 
 
@@ -84,15 +84,15 @@ Sunday                   396 commits         █░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Python                   2 hrs 23 mins       ███████░░░░░░░░░░░░░░░░░░   29.93 % 
-TypeScript               2 hrs 8 mins        ███████░░░░░░░░░░░░░░░░░░   26.71 % 
-Markdown                 54 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.38 % 
-Bash                     49 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.20 % 
-Other                    45 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.37 % 
+TypeScript               3 hrs 19 mins       █████████░░░░░░░░░░░░░░░░   35.22 % 
+Python                   2 hrs 23 mins       ██████░░░░░░░░░░░░░░░░░░░   25.42 % 
+Markdown                 1 hr 3 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.25 % 
+Bash                     47 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.32 % 
+Other                    43 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.75 % 
 
 🔥 Editors: 
-Cursor                   5 hrs 51 mins       ██████████████████░░░░░░░   73.05 % 
-Claude Code              2 hrs 9 mins        ███████░░░░░░░░░░░░░░░░░░   26.95 % 
+Cursor                   7 hrs 16 mins       ███████████████████░░░░░░   77.11 % 
+Claude Code              2 hrs 9 mins        ██████░░░░░░░░░░░░░░░░░░░   22.89 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -108,7 +108,7 @@ Dart                     2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 08/07/2026 02:35:58 UTC
+ Last Updated on 09/07/2026 02:52:32 UTC
 <!--END_SECTION:waka-->
 
 ---
