@@ -55,7 +55,7 @@ const abdullah = {
 </div>
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-25.42%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-25.47%20million%20lines%20of%20code-blue?style=flat)
 
 **I Mostly Code in TypeScript** 
 
@@ -70,7 +70,7 @@ Dart                     2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 24/07/2026 02:35:58 UTC
+ Last Updated on 25/07/2026 02:35:55 UTC
 <!--END_SECTION:waka-->
 
 ---
