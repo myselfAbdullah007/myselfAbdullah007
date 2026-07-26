@@ -55,7 +55,45 @@ const abdullah = {
 </div>
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-25.47%20million%20lines%20of%20code-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-98%20hrs%2022%20mins-blue?style=flat)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-25.48%20million%20lines%20of%20code-blue?style=flat)
+
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                971 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.88 % 
+🌆 Daytime                5888 commits        ███████████████░░░░░░░░░░   59.89 % 
+🌃 Evening                2047 commits        █████░░░░░░░░░░░░░░░░░░░░   20.82 % 
+🌙 Night                  926 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.42 % 
+```
+📅 **I'm Most Productive on Monday** 
+
+```text
+Monday                   2859 commits        ███████░░░░░░░░░░░░░░░░░░   29.08 % 
+Tuesday                  1766 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.96 % 
+Wednesday                1716 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.45 % 
+Thursday                 663 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.74 % 
+Friday                   2357 commits        ██████░░░░░░░░░░░░░░░░░░░   23.97 % 
+Saturday                 75 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.76 % 
+Sunday                   396 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.03 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+TypeScript               6 hrs 38 mins       ███████████░░░░░░░░░░░░░░   44.74 % 
+Markdown                 2 hrs 23 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.07 % 
+Python                   1 hr 29 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.05 % 
+JavaScript               1 hr 12 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.10 % 
+YAML                     1 hr                ██░░░░░░░░░░░░░░░░░░░░░░░   06.82 % 
+
+🔥 Editors: 
+Claude Code              12 hrs 10 mins      ████████████████████░░░░░   81.88 % 
+Cursor                   2 hrs 41 mins       █████░░░░░░░░░░░░░░░░░░░░   18.12 % 
+```
 
 **I Mostly Code in TypeScript** 
 
@@ -70,7 +108,7 @@ Dart                     2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 25/07/2026 02:35:55 UTC
+ Last Updated on 26/07/2026 02:40:24 UTC
 <!--END_SECTION:waka-->
 
 ---
