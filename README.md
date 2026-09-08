@@ -125,15 +125,15 @@ Composer                 0 lines             ░░░░░░░░░░░�
 ```text
 TypeScript               20 repos            █████████░░░░░░░░░░░░░░░░   37.74 % 
 JavaScript               13 repos            ██████░░░░░░░░░░░░░░░░░░░   24.53 % 
-Python                   6 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.32 % 
-Dart                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.77 % 
+Python                   7 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.21 % 
+Java                     6 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.32 % 
 HTML                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.77 % 
 ```
 
 
 
 
- Last Updated on 07/09/2026 03:02:40 UTC
+ Last Updated on 08/09/2026 03:13:09 UTC
 <!--END_SECTION:waka-->
 
 ---
