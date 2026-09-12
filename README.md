@@ -55,88 +55,26 @@ const abdullah = {
 </div>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-147%20hrs%206%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-148%20hrs%2016%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-145%20hrs%206%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-146%20hrs%2018%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-35.51%20million%20lines%20of%20code-blue?style=flat)
-
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                1624 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.08 % 
-🌆 Daytime                10105 commits       ████████████████░░░░░░░░░   62.73 % 
-🌃 Evening                3356 commits        █████░░░░░░░░░░░░░░░░░░░░   20.83 % 
-🌙 Night                  1023 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   06.35 % 
-```
-📅 **I'm Most Productive on Monday** 
-
-```text
-Monday                   4638 commits        ███████░░░░░░░░░░░░░░░░░░   28.79 % 
-Tuesday                  3526 commits        █████░░░░░░░░░░░░░░░░░░░░   21.89 % 
-Wednesday                2081 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.92 % 
-Thursday                 1637 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.16 % 
-Friday                   3755 commits        ██████░░░░░░░░░░░░░░░░░░░   23.31 % 
-Saturday                 75 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 % 
-Sunday                   396 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.46 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-TypeScript               2 hrs 7 mins        ██████████░░░░░░░░░░░░░░░   41.94 % 
-Markdown                 1 hr 15 mins        ██████░░░░░░░░░░░░░░░░░░░   24.95 % 
-Text                     31 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.52 % 
-YAML                     15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.07 % 
-Bash                     13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.50 % 
-
-🔥 Editors: 
-Cursor                   4 hrs 5 mins        ████████████████████░░░░░   80.76 % 
-Claude Code              32 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.58 % 
-Agent                    26 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.66 % 
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-⏱ AI Coding Time: 4 hrs 51 mins (95.98%)
-
-✍️ 7,267 lines written by AI, 7 lines written by hand (99.9% AI-written)
-
-🔤 299,140 Input Tokens, 205,144 Output Tokens
-
-💵 $5.20 Estimated AI Cost This Week
-
-🧠 53 AI Sessions, 150 AI Prompts
-
-Opus                     2,530 lines         ███████████████░░░░░░░░░░   60.31 % 
-Grok                     1,440 lines         █████████░░░░░░░░░░░░░░░░   34.33 % 
-Haiku                    225 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   05.36 % 
-Composer                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 99.9% of written lines came from AI
-📚 Verbose Prompter — average 4,846 characters per prompt
-🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 0.11% of changed lines were hand-edited
-```
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-36.15%20million%20lines%20of%20code-blue?style=flat)
 
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               22 repos            ██████████░░░░░░░░░░░░░░░   40.00 % 
-JavaScript               13 repos            ██████░░░░░░░░░░░░░░░░░░░   23.64 % 
-Python                   7 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.73 % 
-Java                     6 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.91 % 
-HTML                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.64 % 
+TypeScript               24 repos            ███████████░░░░░░░░░░░░░░   42.11 % 
+JavaScript               13 repos            ██████░░░░░░░░░░░░░░░░░░░   22.81 % 
+Python                   7 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.28 % 
+Java                     6 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.53 % 
+HTML                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.51 % 
 ```
 
 
 
 
- Last Updated on 11/09/2026 03:10:51 UTC
+ Last Updated on 12/09/2026 03:15:01 UTC
 <!--END_SECTION:waka-->
 
 ---
