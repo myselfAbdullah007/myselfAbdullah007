@@ -55,9 +55,9 @@ const abdullah = {
 </div>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-148%20hrs%2026%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-149%20hrs%2048%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-146%20hrs%2036%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-147%20hrs%2057%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-36.17%20million%20lines%20of%20code-blue?style=flat)
 
@@ -86,40 +86,41 @@ Sunday                   396 commits         █░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-TypeScript               1 hr 51 mins        █████████░░░░░░░░░░░░░░░░   35.30 % 
-Markdown                 1 hr 8 mins         █████░░░░░░░░░░░░░░░░░░░░   21.59 % 
-Text                     1 hr 2 mins         █████░░░░░░░░░░░░░░░░░░░░   19.71 % 
-YAML                     18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.74 % 
-Other                    17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.44 % 
+Markdown                 2 hrs 4 mins        ████████████░░░░░░░░░░░░░   47.68 % 
+TypeScript               50 mins             █████░░░░░░░░░░░░░░░░░░░░   19.38 % 
+Text                     41 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.00 % 
+Other                    18 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.25 % 
+Python                   7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.99 % 
 
 🔥 Editors: 
-Cursor                   3 hrs 55 mins       ███████████████████░░░░░░   74.56 % 
-Agent                    45 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.51 % 
-Claude Code              34 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.92 % 
+Cursor                   3 hrs 20 mins       ███████████████████░░░░░░   76.67 % 
+Claude Code              34 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.16 % 
+Agent                    26 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.17 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 5 hrs 11 mins (98.73%)
+⏱ AI Coding Time: 4 hrs 15 mins (97.72%)
 
-✍️ 5,393 lines written by AI, 5 lines written by hand (99.91% AI-written)
+✍️ 4,169 lines written by AI, 34 lines written by hand (99.19% AI-written)
 
-🔤 915,897 Input Tokens, 791,426 Output Tokens
+🔤 884,254 Input Tokens, 759,783 Output Tokens
 
-💵 $15.84 Estimated AI Cost This Week
+💵 $15.27 Estimated AI Cost This Week
 
-🧠 61 AI Sessions, 187 AI Prompts
+🧠 43 AI Sessions, 139 AI Prompts
 
-Opus                     2,530 lines         ███████████████████████░░   90.20 % 
-Haiku                    275 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   09.80 % 
+Opus                     3,140 lines         ████████████████░░░░░░░░░   65.73 % 
+Grok                     1,362 lines         ███████░░░░░░░░░░░░░░░░░░   28.51 % 
+Haiku                    275 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   05.76 % 
 Composer                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.91% of written lines came from AI
-📚 Verbose Prompter — average 16,274 characters per prompt
+🤖 AI-Driven — 99.19% of written lines came from AI
+📚 Verbose Prompter — average 20,865 characters per prompt
 🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 0.12% of changed lines were hand-edited
+🚀 High AI Trust — 0.91% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -135,7 +136,7 @@ HTML                     2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 15/09/2026 03:32:23 UTC
+ Last Updated on 16/09/2026 03:27:38 UTC
 <!--END_SECTION:waka-->
 
 ---
