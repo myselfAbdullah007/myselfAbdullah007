@@ -61,6 +61,67 @@ const abdullah = {
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-41.54%20million%20lines%20of%20code-blue?style=flat)
 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                2010 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.94 % 
+🌆 Daytime                12963 commits       ████████████████░░░░░░░░░   64.12 % 
+🌃 Evening                4166 commits        █████░░░░░░░░░░░░░░░░░░░░   20.61 % 
+🌙 Night                  1079 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   05.34 % 
+```
+📅 **I'm Most Productive on Monday** 
+
+```text
+Monday                   5714 commits        ███████░░░░░░░░░░░░░░░░░░   28.26 % 
+Tuesday                  4734 commits        ██████░░░░░░░░░░░░░░░░░░░   23.41 % 
+Wednesday                2281 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.28 % 
+Thursday                 2236 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.06 % 
+Friday                   4758 commits        ██████░░░░░░░░░░░░░░░░░░░   23.53 % 
+Saturday                 75 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 % 
+Sunday                   420 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.08 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+TypeScript               1 hr 46 mins        █████████░░░░░░░░░░░░░░░░   36.18 % 
+Bash                     46 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.62 % 
+Other                    28 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.62 % 
+JavaScript               28 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.49 % 
+Python                   27 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.19 % 
+
+🔥 Editors: 
+Claude Code              3 hrs 7 mins        ████████████████░░░░░░░░░   63.46 % 
+Cursor                   1 hr 46 mins        █████████░░░░░░░░░░░░░░░░   35.96 % 
+Agent                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 4 hrs 52 mins (98.85%)
+
+✍️ 5,274 lines written by AI, 207 lines written by hand (96.22% AI-written)
+
+🔤 4,268,700 Input Tokens, 507,523 Output Tokens
+
+💵 $88.14 Estimated AI Cost This Week
+
+🧠 10 AI Sessions, 69 AI Prompts
+
+Opus                     4,993 lines         ████████████████████████░   94.56 % 
+Sonnet                   253 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   04.79 % 
+Grok                     34 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 96.22% of written lines came from AI
+📝 Concise Prompter — average 407 characters per prompt
+🔁 Iterative Prompter — average 7 prompts per session
+🚀 High AI Trust — 3.77% of changed lines were hand-edited
+```
+
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -74,7 +135,7 @@ HTML                     2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 04/10/2026 04:28:01 UTC
+ Last Updated on 05/10/2026 04:14:20 UTC
 <!--END_SECTION:waka-->
 
 ---
