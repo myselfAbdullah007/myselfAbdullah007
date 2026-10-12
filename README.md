@@ -125,17 +125,17 @@ Sonnet                   0 lines             ░░░░░░░░░░░�
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               25 repos            ███████████░░░░░░░░░░░░░░   44.64 % 
-JavaScript               12 repos            █████░░░░░░░░░░░░░░░░░░░░   21.43 % 
-Python                   6 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.71 % 
-Java                     6 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.71 % 
-HTML                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 % 
+TypeScript               25 repos            ███████████░░░░░░░░░░░░░░   45.45 % 
+JavaScript               12 repos            █████░░░░░░░░░░░░░░░░░░░░   21.82 % 
+Python                   6 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.91 % 
+Java                     6 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.91 % 
+HTML                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.64 % 
 ```
 
 
 
 
- Last Updated on 11/10/2026 04:08:56 UTC
+ Last Updated on 12/10/2026 04:30:04 UTC
 <!--END_SECTION:waka-->
 
 ---
