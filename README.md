@@ -55,73 +55,11 @@ const abdullah = {
 </div>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-172%20hrs%2041%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-173%20hrs%2053%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-174%20hrs%2023%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-175%20hrs%2043%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-49.24%20million%20lines%20of%20code-blue?style=flat)
-
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                2430 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.49 % 
-🌆 Daytime                16805 commits       ████████████████░░░░░░░░░   65.63 % 
-🌃 Evening                5214 commits        █████░░░░░░░░░░░░░░░░░░░░   20.36 % 
-🌙 Night                  1157 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   04.52 % 
-```
-📅 **I'm Most Productive on Monday** 
-
-```text
-Monday                   7082 commits        ███████░░░░░░░░░░░░░░░░░░   27.66 % 
-Tuesday                  6198 commits        ██████░░░░░░░░░░░░░░░░░░░   24.21 % 
-Wednesday                2567 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.02 % 
-Thursday                 3111 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.15 % 
-Friday                   6103 commits        ██████░░░░░░░░░░░░░░░░░░░   23.83 % 
-Saturday                 75 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 % 
-Sunday                   470 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.84 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-Python                   1 hr 33 mins        ██████░░░░░░░░░░░░░░░░░░░   22.18 % 
-TypeScript               1 hr 21 mins        █████░░░░░░░░░░░░░░░░░░░░   19.37 % 
-Other                    1 hr 12 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.31 % 
-Markdown                 51 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.23 % 
-YAML                     22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.31 % 
-
-🔥 Editors: 
-Claude Code              3 hrs 40 mins       █████████████░░░░░░░░░░░░   52.54 % 
-Cursor                   2 hrs 59 mins       ███████████░░░░░░░░░░░░░░   42.64 % 
-Agent                    15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.71 % 
-Cursor Agent             4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.11 % 
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-⏱ AI Coding Time: 6 hrs 59 mins (99.78%)
-
-✍️ 2,340 lines written by AI, 1 lines written by hand (99.96% AI-written)
-
-🔤 1,696,460 Input Tokens, 431,750 Output Tokens
-
-💵 $102.11 Estimated AI Cost This Week
-
-🧠 16 AI Sessions, 100 AI Prompts
-
-Opus                     1,390 lines         ██████████████░░░░░░░░░░░   54.38 % 
-Grok                     1,166 lines         ███████████░░░░░░░░░░░░░░   45.62 % 
-Haiku                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 99.96% of written lines came from AI
-📝 Concise Prompter — average 255 characters per prompt
-🔁 Iterative Prompter — average 6 prompts per session
-🚀 High AI Trust — 0.28% of changed lines were hand-edited
-```
 
 **I Mostly Code in TypeScript** 
 
@@ -136,7 +74,7 @@ Jinja                    1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 24/10/2026 03:26:39 UTC
+ Last Updated on 25/10/2026 03:21:01 UTC
 <!--END_SECTION:waka-->
 
 ---
