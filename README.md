@@ -86,39 +86,39 @@ Sunday                   508 commits         ░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Other                    2 hrs 3 mins        █████████░░░░░░░░░░░░░░░░   35.39 % 
-Python                   1 hr 18 mins        ██████░░░░░░░░░░░░░░░░░░░   22.47 % 
-Bash                     57 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.56 % 
-TypeScript               41 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.98 % 
-YAML                     14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.08 % 
+Other                    2 hrs 3 mins        ███████████░░░░░░░░░░░░░░   42.20 % 
+Python                   1 hr 11 mins        ██████░░░░░░░░░░░░░░░░░░░   24.54 % 
+Bash                     32 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.96 % 
+TypeScript               28 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.70 % 
+YAML                     14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.87 % 
 
 🔥 Editors: 
-Claude Code              2 hrs 53 mins       ████████████░░░░░░░░░░░░░   49.76 % 
-Cursor                   2 hrs 51 mins       ████████████░░░░░░░░░░░░░   49.04 % 
-Copilot CLI              4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.18 % 
-Cursor Agent             0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+Cursor                   2 hrs 51 mins       ███████████████░░░░░░░░░░   58.48 % 
+Claude Code              1 hr 57 mins        ██████████░░░░░░░░░░░░░░░   40.10 % 
+Copilot CLI              4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.41 % 
+Cursor Agent             0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 5 hrs 42 mins (98.06%)
+⏱ AI Coding Time: 4 hrs 45 mins (97.69%)
 
-✍️ 2,750 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 1,132 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 2,031,896 Input Tokens, 634,467 Output Tokens
+🔤 1,632,350 Input Tokens, 495,287 Output Tokens
 
-💵 $73.19 Estimated AI Cost This Week
+💵 $58.31 Estimated AI Cost This Week
 
-🧠 10 AI Sessions, 63 AI Prompts
+🧠 8 AI Sessions, 44 AI Prompts
 
-Opus                     2,578 lines         ██████████████████████░░░   89.17 % 
-GPT                      295 lines           ███░░░░░░░░░░░░░░░░░░░░░░   10.20 % 
-Grok                     18 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 % 
+Opus                     956 lines           ███████████████████░░░░░░   75.33 % 
+GPT                      295 lines           ██████░░░░░░░░░░░░░░░░░░░   23.25 % 
+Grok                     18 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   01.42 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📄 Detailed Prompter — average 530 characters per prompt
+📄 Detailed Prompter — average 583 characters per prompt
 🔁 Iterative Prompter — average 6 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
@@ -136,7 +136,7 @@ Jinja                    1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 30/10/2026 04:33:00 UTC
+ Last Updated on 31/10/2026 04:12:22 UTC
 <!--END_SECTION:waka-->
 
 ---
